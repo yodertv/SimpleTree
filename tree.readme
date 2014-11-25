@@ -1,8 +1,11 @@
 Fractal.readme
 
-tree.html builds trees based on 8 variables:
+Credit to Roger T. Stevens "Fractal Programming in C", 1989 M&T Books, Redwood City, CA
 
-// Set these variables and open the file to see your tree
+tree.html draws a fractal based tree configured by these 8 variables:
+
+// Set these variables in the tree.html file and open it to see your tree.
+
 var level = 12;  // Level of recursion
 var initialAngle = -90; // Initial angle of the trunk
 var length = 180; // Length of the first stem
