@@ -1,5 +1,7 @@
 Fractal.readme
 
+Credit to Roger T. Stevens "Fractal Programming in C", 1989 M&T Books, Redwood City, CA
+
 tree.html draws a fractal based tree configured by these 8 variables:
 
 // Set these variables in the tree.html file and open it to see your tree.
